@@ -1,0 +1,148 @@
+.fundo {
+    background-image: url(imagens/bgtile-css.gif);
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+  }
+  
+  html {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;  
+  }
+  
+  a:link {
+    color: #336699;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #666666;
+  }
+  
+  a:hover {
+    color: #663366;
+  }
+  
+  a:active {
+    color: #663300;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #448888;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 18px;
+    color: #226666;
+    margin-left: 10px; 
+    margin-right: 10px;
+  }
+  
+  h3 {
+    font-size: 14px;
+    color: #333333;
+  }
+  
+  .oi {
+    margin: 0;
+    padding: 0;
+  }
+  * {
+    margin-top: 0;
+  }
+  
+  .botton {
+    margin-bottom: 0% !important;
+  }
+  
+  a {
+    line-height: 1.4em;
+  }
+  
+  dt {
+    color: #333333;
+    font-weight: bold;
+  }
+  
+  dd {
+    font-style: italic;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
+  }
+  
+  dl {
+    margin: 1.5em;
+  }
+  
+  blockquote {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+  }
+  
+  .byline {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 2.5em;
+    padding-bottom: 0.5;
+    border-bottom: solid, 1px, color(#666666);
+  }
+  
+  .figure {
+    margin-left: 20px;
+    float: right;
+  }
+  
+  .figure h3  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-style: italic;
+    color: #666666;
+    margin: 0%;
+    margin-left: 10px; 
+    margin-right: 10px;
+  }
+  
+  #toc {
+    background-color: #ffffff;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-left: 1px solid #666666; 
+    border-right: 6px solid #666666; 
+    border-bottom: 6px solid #666666; 
+    margin-left: 10px; 
+    margin-right: 10px;
+  }
+  
+  #toc ol {
+    padding-left: 2em;
+  }
+  
+  .beleza {
+    margin-left: 10px; 
+    margin-right: 10px;
+  }
+  
+  .cub {
+    font-style: italic;
+  }
+  
+  
